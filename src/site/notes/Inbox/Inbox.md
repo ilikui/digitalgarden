@@ -11,5 +11,8 @@
 相关的语法 [DavidWells/advanced-markdown: Learn about advanced markdown techniques (github.com)](https://github.com/DavidWells/advanced-markdown)
 
 
-相关的数据测试
+我的笔记使用规则，使用PARA系统
+
+*  [[Project/Project\|Project]]
+* [[Area/Area\|Area]]
 
