@@ -16,10 +16,11 @@
 * [[Project/Project\|Project]]
 * [[Area/Area\|Area]]
 * [[Resoure/Resource\|Resource]]
+* [[Archive/Archive\|Archive]]
 
 
 
 ---
-相关的笔记软件
+**相关的笔记软件**
 
 * [GridNote方格注记](https://gridnote.cn/#/landing#home)
