@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/archive/archive/","noteIcon":""}
+dg-publish: true
 ---
-
 > 相关的笔记
 
 ---

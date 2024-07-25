@@ -34,6 +34,7 @@
 * 画UML https://processflow.sharehoo.cn/
 * https://omnivore.app/home
 
+
 ---
 
 收藏的博客
@@ -43,3 +44,6 @@
 1. https://weiyan.cc/
 2. https://neolab.exozy.me/
 3. https://notes.johnmavrick.com/
+4. [数字花园合集:仿生猫不会梦见电子猫粮 — To make each day count. (jefftay.com)](https://jefftay.com/%E6%95%B0%E5%AD%97%E8%8A%B1%E5%9B%AD%E5%90%88%E9%9B%86)
+5. [Vercel部署NotionNext | NotionNext帮助手册 (tangly1024.com)](https://docs.tangly1024.com/article/vercel-deploy-notion-next)
+6. [友情链接 | Tangly的学习笔记 (tangly1024.com)](https://blog.tangly1024.com/links)
