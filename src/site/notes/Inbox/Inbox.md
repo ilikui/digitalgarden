@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/inbox/inbox/","tags":["gardenEntry"],"noteIcon":""}
 ---
 
-我的首页数据
+![Pasted image 20240725103029.png](/img/user/Pasted%20image%2020240725103029.png)
 
 
 > [!NOTE]  
