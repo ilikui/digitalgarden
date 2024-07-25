@@ -6,7 +6,7 @@
 
 
 > [!NOTE]  
-> Highlights information that users should take into account, even when skimming.
+> 数字花园
 
 相关的语法 [DavidWells/advanced-markdown: Learn about advanced markdown techniques (github.com)](https://github.com/DavidWells/advanced-markdown)
 
@@ -31,6 +31,7 @@
 
 * Github加速下载镜像 https://juejin.cn/post/7068996624910909471
 
+---
 
 收藏的博客
 
