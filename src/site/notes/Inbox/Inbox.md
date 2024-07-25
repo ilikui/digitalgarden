@@ -17,6 +17,7 @@
 * [[Area/Area\|Area]]
 * [[Resoure/Resource\|Resource]]
 * [[Archive/Archive\|Archive]]
+	* [[Archive/CICD\|CICD]]
 
 
 
@@ -35,6 +36,8 @@
 ---
 
 收藏的博客
+
+---
 
 1. https://weiyan.cc/
 2. https://neolab.exozy.me/
