@@ -30,3 +30,8 @@
 ---
 
 * Github加速下载镜像 https://juejin.cn/post/7068996624910909471
+
+
+收藏的博客
+
+1. https://weiyan.cc/
