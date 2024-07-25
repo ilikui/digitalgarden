@@ -1,4 +1,5 @@
 ---
-dg-publish: true
+{"dg-publish":true,"permalink":"/project/project/","noteIcon":""}
 ---
+
 
