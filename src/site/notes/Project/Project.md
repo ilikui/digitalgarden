@@ -1,5 +1,4 @@
 ---
-{"dg-publish":true,"permalink":"/project/project/","noteIcon":""}
+dg-publish: true
 ---
-
 

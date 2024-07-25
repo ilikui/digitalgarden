@@ -15,6 +15,7 @@
 
 * [[Project/Project\|Project]]
 * [[Area/Area\|Area]]
+* [[Resoure/Resource\|Resource]]
 
 
 
