@@ -24,3 +24,9 @@
 **相关的笔记软件**
 
 * [GridNote方格注记](https://gridnote.cn/#/landing#home)
+
+相关的工具
+
+---
+
+* Github加速下载镜像 https://juejin.cn/post/7068996624910909471
