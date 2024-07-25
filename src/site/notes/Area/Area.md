@@ -1,4 +1,4 @@
 ---
-{"dg-publish":true,"permalink":"/area/area/"}
+{"dg-publish":true,"permalink":"/area/area/","noteIcon":""}
 ---
 
