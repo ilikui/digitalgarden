@@ -51,3 +51,4 @@
 5. [Vercel部署NotionNext | NotionNext帮助手册 (tangly1024.com)](https://docs.tangly1024.com/article/vercel-deploy-notion-next)
 6. [友情链接 | Tangly的学习笔记 (tangly1024.com)](https://blog.tangly1024.com/links)
 7. [RE - 小站 (xl2x.com)](https://xl2x.com/)
+8. [首页 | 吕立青的博客 (jimmylv.info)](https://blog.jimmylv.info/)
