@@ -2,3 +2,5 @@
 {"dg-publish":true,"permalink":"/area/area/","noteIcon":""}
 ---
 
+* 学习管理
+* 知识管理
