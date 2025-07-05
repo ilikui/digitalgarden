@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/inbox/inbox/","tags":["gardenEntry"],"noteIcon":""}
 ---
 
-![Pasted image 20240725103029.png](/img/user/Resoure/Pasted%20image%2020240725103029.png)
+![Pasted image 20240725103029.png](/img/user/Resource/Pasted%20image%2020240725103029.png)
 
 
 > [!NOTE]  
@@ -15,7 +15,7 @@
 
 * [[Project/Project\|Project]]
 * [[Area/Area\|Area]]
-* [[Resoure/Resource\|Resource]]
+* [[Resource/Resource\|Resource]]
 * [[Archive/Archive\|Archive]]
 	* [[Archive/CICD\|CICD]]
 	* [[Archive/知识卡片\|知识卡片]]
