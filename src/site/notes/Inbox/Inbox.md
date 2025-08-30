@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/inbox/inbox/","tags":["gardenEntry"],"noteIcon":""}
 ---
 
-![Pasted image 20240725103029.png](<Pasted image 20240725103029.png>)
+![](../../img/user/Resoure/digital.png)
 
 
 > [!NOTE]  
