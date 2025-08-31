@@ -16,10 +16,11 @@
 
 * [[Project/Project\|Project]]
 * [[Area/Area\|Area]]
+  * * [[Area/知识卡片\|知识卡片]]
 * [[Resoure/Resource\|Resource]]
 * [[Archive/Archive\|Archive]]
 	* [[Archive/CICD\|CICD]]
-	* [[知识卡片]]
+	
 
 
 
