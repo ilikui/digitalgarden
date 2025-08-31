@@ -19,7 +19,7 @@
 * [[Resoure/Resource\|Resource]]
 * [[Archive/Archive\|Archive]]
 	* [[Archive/CICD\|CICD]]
-	* [[Area/知识卡片\|知识卡片]]
+	* [[知识卡片|知识卡片]]
 
 
 
