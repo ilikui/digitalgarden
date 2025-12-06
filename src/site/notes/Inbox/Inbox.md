@@ -2,9 +2,8 @@
 {"dg-publish":true,"permalink":"/inbox/inbox/","tags":["gardenEntry"],"noteIcon":""}
 ---
 
-![](../../img/user/Resoure/digital.png)
+![Pasted image 20240725103029.png](/img/user/Resoure/Pasted%20image%2020240725103029.png)
 
-![alt text](../../img/home.png) `数字花园`
 
 > [!NOTE]  
 > 数字花园
@@ -16,11 +15,10 @@
 
 * [[Project/Project\|Project]]
 * [[Area/Area\|Area]]
-  * [[Area/知识卡片\|知识卡片]]
 * [[Resoure/Resource\|Resource]]
 * [[Archive/Archive\|Archive]]
 	* [[Archive/CICD\|CICD]]
-	
+	* [[Area/知识卡片\|知识卡片]]
 
 
 
@@ -37,9 +35,7 @@
 * 画UML https://processflow.sharehoo.cn/
 * https://omnivore.app/home
 * [RoamEdit官网-双向链接大纲笔记工具](https://roamedit.com/)
-* [What's New](https://terrytao.wordpress.com/)
-* [书音影](https://neodb.social/)
-
+* 
 
 
 ---
